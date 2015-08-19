@@ -1,0 +1,11 @@
+{
+  "name": "intranet",
+  "version": "1.0.0",
+  "description": " red informática de AC75 para compartir información entre sus empleados.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "fabio rojas <fabiorojas7@gmail.com>",
+  "license": "MIT"
+}
